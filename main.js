@@ -26,7 +26,7 @@ ospin.style.width = imgWidth + "px";
 ospin.style.height = imgHeight + "px";
 
 // Size of ground - depend on radius
-var ground = document.getElementById('ground');
+var ground = document.getElementById('ground'); 
 ground.style.width = radius * 3 + "px";
 ground.style.height = radius * 3 + "px";
 
